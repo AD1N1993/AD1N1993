@@ -20,15 +20,13 @@
 <div align="center">
   <img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif" width="600" height="200"  width="200"/>
 </div>
-### :woman_technologist: About Me : <br>
+### 👨‍💻: About Me : <br>
 
 - :telescope: I am dedicated to creating modern and creative websites that not only look great but also function flawlessly. 
 
 - :seedling: I have a strong proficiency in HTML5, CSS3, JS, React, Redux, Redux Toolkit, MobX, Git, and other related tools.
 
 - :zap: My attention to detail, problem-solving skills, and ability to work collaboratively make me <br> an invaluable member of any development team.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourdeveloper/)
 
 <div align="center">
 
